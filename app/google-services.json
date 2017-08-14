@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961954069588",
+    "firebase_url": "https://psheghatti.firebaseio.com",
+    "project_id": "psheghatti",
+    "storage_bucket": "psheghatti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961954069588:android:fc5882333d8ad34e",
+        "android_client_info": {
+          "package_name": "com.example.swtaneja.moneymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961954069588-jcnbvld7la0ivb9qlt0t3nfevq182dqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swtaneja.moneymanager",
+            "certificate_hash": "e93bb49b1879ddea74eb088d52e8069a50a38181"
+          }
+        },
+        {
+          "client_id": "961954069588-m6da18ijqj5fa3eo1nq6ijeef0oniaoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAh8k5qe_xBXK2CfTRFKYADbfXzdLNWEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961954069588-m6da18ijqj5fa3eo1nq6ijeef0oniaoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
